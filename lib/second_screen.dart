@@ -25,7 +25,6 @@ class _SecondScreenState extends State<SecondScreen> {
       child: Scaffold(
         extendBodyBehindAppBar: true,
         appBar: AppBar(
-          foregroundColor: Colors.transparent,
           backgroundColor: Colors.transparent,
           elevation: 0,
           actions: [
